@@ -1,0 +1,5 @@
+region = "us-east-1"
+Environment = "terraformChamps"
+Owner = "Mina"
+bucket_name = "minaterrafromstatefiles"
+iam_user = "Mina"
