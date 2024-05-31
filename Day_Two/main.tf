@@ -3,9 +3,7 @@ variable "region" {}
 variable "Environment" {}
 variable "Owner" {}
 variable "bucket_name" {}
-variable "iam_user" {
-
-}
+variable "iam_user" {}
 
 # define provider
 provider "aws" {
